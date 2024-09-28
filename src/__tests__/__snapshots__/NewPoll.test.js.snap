@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewPoll should render the component 1`] = `
+<DocumentFragment>
+  <div
+    class="new-poll"
+  >
+    <h2
+      class="dark:text-teal-800 text-3xl"
+    >
+      Create New Poll
+    </h2>
+    <br />
+    <form>
+      <div>
+        <label
+          class="dark:text-teal-500 text-xl"
+          for="optionOne"
+        >
+          Option One
+        </label>
+        <br />
+        <input
+          id="optionOne"
+          placeholder="Enter first option"
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <label
+          class="dark:text-teal-500 text-xl"
+          for="optionTwo"
+        >
+           Option Two
+        </label>
+        <br />
+        <input
+          id="optionTwo"
+          placeholder="Enter second option"
+          type="text"
+          value=""
+        />
+      </div>
+      <button
+        class="btn btn-primary bg-teal-600  border-2 border-red-200  rounded-lg px-4 py-2 text-red-200"
+        type="submit"
+      >
+        Submit Poll
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
