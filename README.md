@@ -8,7 +8,7 @@ This internal web application allows employees to create polls with two options,
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/employee-polls.git
+      https://github.com/SaraMahran/employee-poll.git
 
    ```
 
