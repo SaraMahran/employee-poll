@@ -18,7 +18,7 @@ This internal web application allows employees to create polls with two options,
 Change to the project's root folder:
 
 ```bash
-cd employee-polls
+cd employee-poll
 ```
 
 3. **Install Dependencies**
